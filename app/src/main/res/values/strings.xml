@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RULETeacher</string>
+    <string name="title_home">Home</string>
+    <string name="title_report">Report</string>
+    <string name="title_profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="signuphere">First time here? Sign up first!</string>
+    <string name="signup">Sign Up</string>
+    <string name="loginhere">Back To Login</string>
+    <string name="TeacherID">Teacher ID</string>
+    <string name="password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Name">Name</string>
+    <string name="Position">Position</string>
+    <string name="ID">ID</string>
+    <string name="RULETeacher">RULE Teacher</string>
+    <string name="title_history">History</string>
+
+
+</resources>
